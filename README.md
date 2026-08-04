@@ -92,3 +92,8 @@ The dataset should contain the following columns:
 - `region` – Geographic region (southwest, southeast, northwest, etc.)
 - `charges` – Individual medical insurance cost (target variable)
 
+## 🙏 Acknowledgements
+
+- Data source (Kaggle's Medical Cost Personal Dataset)
+- The scikit-learn team for providing robust machine learning tools
+- Plotly for interactive visualizations
